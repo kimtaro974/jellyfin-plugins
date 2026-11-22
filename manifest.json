@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "0c54390b-d67a-4eac-8ef9-2ca8ca8c67f0",
+    "name": "Aperçu au survol",
+    "description": "Au survol d'une vignette de film ou d'épisode, une fenêtre flottante joue un extrait vidéo en boucle sur un arrière-plan flouté. Les extraits sont préparés par le serveur (tâche planifiée incluse).",
+    "overview": "Aperçu vidéo au survol des vignettes",
+    "owner": "kimtaro974",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.2.0.0",
+        "changelog": "Fenêtre flottante, extrait vidéo continu en boucle, tâche planifiée de préparation",
+        "targetAbi": "12.4.0.0",
+        "sourceUrl": "https://github.com/kimtaro974/jellyfin-plugins/releases/download/hover-preview-v1.2.0.0/HoverPreview_1.2.0.0.zip",
+        "checksum": "ce17b22cd0f41da17c7e68c13c44f032",
+        "timestamp": "2026-11-22T05:00:00Z"
+      }
+    ]
+  }
+]
